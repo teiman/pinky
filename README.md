@@ -8,7 +8,7 @@ Run both the modified quake engine and the script, then open a website on http:/
 
 
 Example of QSS with qBrain included
-http://texthacking.com/quake/qsst.zip
+http://texthacking.com/quake/qsst.7z
 
 Bad tutorial about how to run a node application on windows
 https://learn.microsoft.com/en-us/windows/dev-environment/javascript/nodejs-beginners-tutorial
