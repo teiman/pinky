@@ -1,0 +1,199 @@
+
+
+html, body, .tooltip, .popover {
+    font-family: monospace;
+    font-family: 'Fira Mono';
+}
+
+code, kbd, pre, samp, .text-monospace {
+    font-family: monospace;
+    font-family: 'Fira Mono';
+}
+
+button, input, optgroup, select, textarea {
+    font-family: monospace;
+    font-family: 'Fira Mono';
+}
+
+.entity  {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  border: 1px solid gray;
+  color: gray;
+  margin: 0px;
+  margin-right: 3px;
+  margin-top: 0px;
+  margin-bottom: 3px;
+  text-align: center;
+
+  cursor: zoom-in;
+}
+
+.entity:hover {
+  background-color: gray;  
+}
+
+.entity-worldspawn {
+  background-color: black;
+}
+
+
+.entity-player {
+  background-color: lime;
+}
+
+.entity-bodyqueue {
+  background-color: gray;
+}
+
+.entity-info_player_start {
+  background-color: green;
+}
+.entity-info_player_start2 {
+  background-color: green;
+}
+
+
+.entity-fireball {
+  background-color: red;
+}
+
+.entity-spike {
+  background-color: red;
+}
+
+.entity-grenade {
+  background-color: red;
+}
+
+.entity-rocket {
+  background-color: red;
+}
+
+
+
+
+.entity-light_fluorospark {
+  background-color: yellow;
+}
+.entity-light_fluoro {
+  background-color: yellow;
+}
+.entity-light {
+  background-color: yellow;
+}
+
+
+.entity-ambient_sound {
+  background-color: purple;
+}
+
+.entity-trigger_once {
+  background-color: purple;
+}
+
+.entity-ambient_drone {
+  background-color: purple;
+}
+
+.entity-ambient_drip {
+  background-color: purple;
+}
+
+.entity-func_bossgate {
+  background-color: purple;
+}
+
+.entity-func_door {
+  background-color: purple;
+}
+
+.entity-func_button {
+  background-color: purple;
+}
+
+.entity-trigger_teleport {
+  background-color: purple;
+}
+.entity-door {
+  background-color: purple;
+}
+
+.entity-trigger_setskill {
+  background-color: purple;
+}
+
+.entity-trigger_changelevel {
+  background-color: purple;
+}
+.entity-info_teleport_destination {
+  background-color: purple;
+}
+.entity-trigger_multiple {
+  background-color: purple;
+}
+
+.entity-trigger_onlyregistered {
+  background-color: purple;
+}
+.entity-func_episodegate {
+  background-color: purple;
+}
+
+.entity-func_wall {
+  background-color: purple;
+}
+
+.entity-info_intermission {
+  background-color: purple;
+}
+
+.entity-func_plat {
+  background-color: purple;
+}
+
+.entity-target_state {
+  background-color: purple;
+}
+
+.entity-trigger_relay {
+  background-color: purple;
+}
+
+.entity-target_setskill {
+  background-color: purple;
+}
+
+.entity-monster_zombie {
+  background-color: brown;
+}
+
+.entity-monster_tarbaby {
+  background-color: brown;
+}
+
+.entity-info_player_deathmatch {
+  background-color: green;
+}
+
+.entity-info_player_coop {
+  background-color: green;
+}
+
+.noclass {
+  border: 0px;
+}
+
+.justmodified {
+  border-color: white;
+}
+
+.filterbox {
+  opacity:0.3;
+  background-color: gray;
+}
+
+.filterbox:focus {
+  opacity:1;
+}

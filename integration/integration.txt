@@ -1,0 +1,15 @@
+
+
+To integrate the qbridge, add qbridge_sendentities to the end of SV_SendClientMessages.
+
+void SV_SendClientMessages (void)
+{
+    ...
+	qbridge_sendentities();
+}
+
+
+Pinky spect the pipe to be called this:
+\\.\pipe\qbrain
+
+This has been designed on Windows.  Windows pipes seems to require non-standard api's calls to work, also only are alive while the original application is open. 
